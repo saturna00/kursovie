@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Buh\obj\Debug\Buh.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Buh\obj\Debug\Buh.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Buh\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Buh\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Buh\obj\Debug\Buh_MarkupCompile.cache
+C:\Users\user\source\repos\Buh\obj\Debug\Buh_MarkupCompile.lref
